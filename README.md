@@ -1,1 +1,1 @@
-An app made with VanillaJs . This app will calulate profit/loss and also profit/loss percentage.
+An app made with VanillaJs . This app will calculate profit/loss and also profit/loss percentage.
